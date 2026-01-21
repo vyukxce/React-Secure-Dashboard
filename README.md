@@ -34,6 +34,13 @@ This project demonstrates **real-world frontend skills** including **state manag
 
 ---
 
+## 🎬 GIF Preview
+
+./screenshots/animation.gif
+
+- Shows **login → dashboard → theme toggle → card interactions**  
+- Makes repo **instant recruiter-friendly**
+
 ## 💻 Technologies Used
 
 - **React v18**  
