@@ -46,7 +46,7 @@ This project demonstrates **real-world frontend skills** including **state manag
 
 ## 🗂 Folder Structure
 ---
-
+```
 User-Explorer-Dashboard/
 ├── public/
 │   └── vite.svg
@@ -73,7 +73,7 @@ User-Explorer-Dashboard/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
-
+```
 
 
 ---
@@ -94,7 +94,7 @@ npm install
 npm run dev
 
 ---
-
+```
 ## 🔮 Future Enhancements
 
 - **Connect real API backend** – login + dynamic data fetch  
