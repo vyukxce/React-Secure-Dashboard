@@ -109,7 +109,7 @@ npm run dev
 - **Add analytics charts & graphs** – for dashboard insights  
 - **Role-based dashboard permissions** – admin, user, guest roles  
 - **Notifications, alerts, and tooltips** – interactive user experience  
-- **Deploy live** – via Netlify or Vercel  
+- **Deploy live** – via Vercel  
 
 ---
 
